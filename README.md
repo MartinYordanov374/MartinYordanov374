@@ -17,7 +17,8 @@ Resume available upon request.
 ![Go](https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white) ![Node.js](https://img.shields.io/badge/node.js-%236DA55F.svg?style=for-the-badge&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 
 ### Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23FF4438.svg?style=for-the-badge&logo=redis&logoColor=white)
+![MSSQL](https://img.shields.io/badge/mssql-CC2927.svg?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
 
 ### DevOps and Cloud
 ![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white) 
@@ -35,6 +36,6 @@ Resume available upon request.
 
 ## Contacts
 
-- Email: [martin.yordanov.official@pm.me](martin.yordanov.official@pm.me)
+- Email: [martin.yordanov.official@pm.me](mailto:martin.yordanov.official@pm.me)
 - LinkedIn: [MartinYordanov374](https://www.linkedin.com/in/martinyordanov374/)
 - Medium: [MartinYordanov](https://medium.com/@martin.yordanov.official) (That is where I document my projects in detail and write technical articles)
