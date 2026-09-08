@@ -4,7 +4,7 @@ Full-stack software engineer with a security-first mindset, moving toward securi
 
 I hold a Bachelor's degree in Software Development with a minor in Information Security from Tampere University, where I'm currently pursuing a Master's degree in Information Security.
 
-Based in Tampere, Finland. Unrestricted working rights in Finland.
+Based in Tampere, Finland. Unrestricted working rights in Finland and the EU.
 
 Resume available upon request.
 
