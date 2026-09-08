@@ -1,6 +1,6 @@
 # Martin Yordanov
 ## About me
-Full-stack software engineer with a security-first mindset, moving toward security engineering. I have 2 years of total software engineering internship experience, most notably at MentorMate (now Tieto), where I did full-stack development.
+Full-stack software engineer with a security-first mindset, moving toward security engineering. I have 2 years of total software engineering experience from internships, most notably at MentorMate (now Tieto), where I did full-stack development.
 
 I hold a Bachelor's degree in Software Development with a minor in Information Security from Tampere University, where I'm currently pursuing a Master's degree in Information Security.
 
