@@ -27,6 +27,12 @@ Resume available upon request.
 ![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?style=for-the-badge&logo=prometheus&logoColor=white) 
 ![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?style=for-the-badge&logo=grafana&logoColor=white)
 
+### Testing
+![Postman](https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white)
+![Mocha](https://img.shields.io/badge/-mocha-%238D6748.svg?style=for-the-badge&logo=mocha&logoColor=white)
+![Chai](https://img.shields.io/badge/Chai-A30701.svg?style=for-the-badge)
+
+
 ## Contacts
 
 - Email: [martin.yordanov.official@pm.me](martin.yordanov.official@pm.me)
