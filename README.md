@@ -23,6 +23,6 @@ Resume available upon request.
 
 ## Contacts
 
-- Email: [martin.yordanov.official@proton.me](martin.yordanov.official@proton.me)
+- Email: [martin.yordanov.official@pm.me](martin.yordanov.official@pm.me)
 - LinkedIn: [MartinYordanov374](https://www.linkedin.com/in/martinyordanov374/)
 - Medium: [MartinYordanov](https://medium.com/@martin.yordanov.official) (That is where I document my projects in detail and write technical articles)
