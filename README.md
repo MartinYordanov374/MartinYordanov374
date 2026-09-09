@@ -6,6 +6,8 @@ I hold a Bachelor's degree in Software Development with a minor in Information S
 
 Based in Tampere, Finland. Unrestricted working rights in Finland and the EU.
 
+If you're hiring for software engineering or security-related roles, reach me at martin.yordanov.official@pm.me or send me a message on <a href='https://www.linkedin.com/in/martinyordanov374/'>LinkedIn.</a>
+
 Resume available upon request.
 
 ## Tech Stack
